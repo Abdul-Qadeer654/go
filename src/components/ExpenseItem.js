@@ -5,8 +5,8 @@ function ExpenseItem() {
     <div>
       <div className="expense-item">August 30th 2021</div>
       <div className="expense-item__description">
-        <h2>Car Insurance</h2>
-        <div className="expense-item__price">$294.36</div>
+        <h2>Car Insurances</h2>
+        <div className="expense-item__price">$295.36</div>
       </div>
     </div>
   );
